@@ -1,5 +1,8 @@
 # 🌙 Night Vision Using OpenCV
 
+## Video link
+[https://www.linkedin.com/posts/arjun-menon-data_opencv-python-computervision-activity-7241805638077423616-A1E3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE2E2ysBeRj54jXrps5R5Wslv68BInQwbrI]
+
 This project uses **OpenCV** and **NumPy** to simulate a night vision effect in real-time using your webcam.  
 It enhances low-light video feed by applying contrast adjustments, a green tint, and displaying a **light intensity meter**.
 
